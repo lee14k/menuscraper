@@ -1,0 +1,115 @@
+[
+    {
+        "header": "Camp Special",
+        "body": [
+            "Two eggs, two sausage links,",
+            "or two strips of bacon, hash",
+            "browns, and toast. 10.49"
+        ]
+    },
+    {
+        "header": "CB Special",
+        "body": [
+            "Two eggs, Canadian bacon,",
+            "and toast. $8.29"
+        ]
+    },
+    {
+        "header": "Mini Special",
+        "body": [
+            "One egg, one sausage link or",
+            "strip of bacon, half order of",
+            "hash browns, and toast. 5.99"
+        ]
+    },
+    {
+        "header": "Swirl Special",
+        "body": [
+            "Two cinnamon swirl French",
+            "toast, whipped butter and",
+            "Canadian bacon. 8.99"
+        ]
+    },
+    {
+        "header": "Steak Special",
+        "body": [
+            "Two eggs, 6 oz. sirloin strip",
+            "steak, hash browns, and",
+            "toast. 13.99"
+        ]
+    },
+    {
+        "header": "Sportsman\u2019s Special",
+        "body": [
+            "Two griddle cakes with whipped",
+            "butter, one egg, and two sausage",
+            "links. 6.99"
+        ]
+    },
+    {
+        "header": "Northwoods Special",
+        "body": [
+            "Two eggs, two sausage links,",
+            "two strips of bacon, and a slice",
+            "of ham. With hash browns and",
+            "toast. $13.99"
+        ]
+    },
+    {
+        "header": "Logger's Special",
+        "body": [
+            "Two slices of French toast with",
+            "whipped butter and three",
+            "sausage links. 8.79"
+        ]
+    },
+    {
+        "header": "Northern Eggs Benedict",
+        "body": [
+            "Buttermilk biscuit split and",
+            "topped with two eggs, Canadian",
+            "bacon, and homemade sausage",
+            "gravy. 10.99"
+        ]
+    },
+    {
+        "header": "Hunter's Special",
+        "body": [
+            "Two eggs, two sausage patties,",
+            "hash browns, and toast. 10.99"
+        ]
+    },
+    {
+        "header": "Breakfast Sandwich",
+        "body": [
+            "Grilled Canadian bacon or",
+            "sausage patty, one egg, and",
+            "melted cheese on a toasted",
+            "English muffin. 5.29."
+        ]
+    },
+    {
+        "header": "Breakfast Burrito",
+        "body": [
+            "Scrambled eggs, bacon, hash",
+            "browns, and cheese wrapped in",
+            "a warm tortilla. 9.89",
+            "Famous Rolls"
+        ]
+    },
+    {
+        "header": "Cinnamon Roll 4.99",
+        "body": []
+    },
+    {
+        "header": "Pecan Roll (Sundays",
+        "body": []
+    },
+    
+    {
+        "header": "The Legend Country Fried Steak",
+        "body": ["Country fried steak golden",
+        "brown served with two eggs,",
+        "hash browns, and choice of",
+        "toast. 13.99"]
+    }]
