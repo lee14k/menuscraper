@@ -1,0 +1,168 @@
+[
+    {
+        "header": "Wood Cutter",
+        "body": [
+            "Ham, mushroom, onion,",
+            "green pepper, hash browns,",
+            "and cheese blend. 11.49"
+        ]
+    },
+    {
+        "header": "Build your own omelette",
+        "body": [
+            "Starting with three eggs",
+            "and our cheese blend. 8.79"
+        ]
+    },
+    {
+        "header": "Meat Lover's",
+        "body": [
+            "Ham, bacon. Canadian",
+            "bacon, pork sausage, and",
+            "cheese blend. 12.49"
+        ]
+    },
+    {
+        "header": "Vegetarian",
+        "body": [
+            "Tomato, onion, green",
+            "pepper, mushroom, and",
+            "cheese blend. 10.49"
+        ]
+    },
+    {
+        "header": "ADD CHEESE  0.99 each",
+        "body": [
+            "Cheddar cheese blend. Mozzarella,",
+            "Swiss, American, Provolone,",
+            "Pepper Jack"
+        ]
+    },
+    {
+        "header": "ADD VEGGIES 0.60 each",
+        "body": [
+            "Green Pepper, Onion, Tomato,",
+            "Mushroom, Jalape\u00f1o, Hash",
+            "Browns"
+        ]
+    },
+    {
+        "header": "ADD MEATS 1.95 each",
+        "body": [
+            "Bacon, Ham, Canadian Bacon,",
+            "Sausage, Taco Meat, Fajita Chicken."
+        ]
+    },
+    {
+        "header": "Timberman's",
+        "body": [
+            "Grilled ham, hash browns, onion,",
+            "and green pepper, topped with two",
+            "eggs and smothered with cheese",
+            "sauce. Served with toast. 11.99"
+        ]
+    },
+    {
+        "header": "Corned Beef Hash",
+        "body": [
+            "8 oz. of grilled corned beef",
+            "hash topped with two eggs.",
+            "Served with toast. 11.99"
+        ]
+    },
+    {
+        "header": "Sausage Skillet",
+        "body": [
+            "Hash browns topped with two",
+            "sausage patties and two eggs",
+            "covered with sausage gravy. Served",
+            "with toast. 11.99"
+        ]
+    },
+    {
+        "header": "Polish Sausage Skillet",
+        "body": [
+            "Hearty skillet of polish sausage,",
+            "crisp hash browns, green pepper",
+            "and onion, topped with two eggs.",
+            "Served with toast. 11.99"
+        ]
+    },
+    {
+        "header": "Two Griddle Cakes 4.39",
+        "body": [
+            "With your choice ham, bacon, canadian",
+            "bacon, sausage links, or sausage patties.",
+            "8.39"
+        ]
+    },
+    {
+        "header": "Three Cinnamon Swirl",
+        "body": []
+    },
+    {
+        "header": "French Toast 8.79",
+        "body": []
+    },
+    {
+        "header": "Three Griddle Cakes 5.49",
+        "body": []
+    },
+    {
+        "header": "Three Blueberry Cakes 8.79",
+        "body": []
+    },
+    {
+        "header": "Three French Toast 7.69",
+        "body": []
+    },
+    {
+        "header": "Two Pearl Sugar Waffles",
+        "body": [
+            "With syrup and butter. 8.29"
+        ]
+    },
+    {
+        "header": "Biscuits and Gravy",
+        "body": [
+            "Two homemade buttermilk biscuits,",
+            "split, grilled, and topped with",
+            "homemade sausage gravy. 9.89. |",
+            "Half Order 8.79"
+        ]
+    },
+    {
+        "header": "Oatmeal or Cream of Wheat",
+        "body": [
+            "Served with brown sugar and milk.",
+            "Add raisins 0.60",
+            "Cup 3.29 | Bowl 3.99."
+        ]
+    },
+    {
+        "header": "Egg and Toast 3.29",
+        "body": [
+            "Add your choice ham, bacon, Canadian",
+            "bacon, sausage links, or sausage",
+            "patties. 7.29 * Two eggs for 1.09 more"
+        ]
+    },
+    {
+        "header": "Scrambled Egg Beaters",
+        "body": [
+            "With toast. 6.59",
+            "With your choice ham, bacon,",
+            "canadian bacon, sausage links, or",
+            "sausage patties. 9.49",
+            "With your choice ham, bacon,",
+            "canadian bacon, sausage links, or",
+            "sausage patties. 12.79",
+            "With your choice ham, bacon, canadian",
+            "bacon, sausage links, or sausage patties.",
+            "12.79",
+            "With your choice ham, bacon, canadian",
+            "bacon, sausage links, or sausage patties.",
+            "12.79"
+        ]
+    }
+]

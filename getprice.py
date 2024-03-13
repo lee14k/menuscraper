@@ -7,7 +7,7 @@ import re
 #     sections = json.load(f)
 
 # Let's say json_data is your JSON string
-with open ('bfast1.json', 'r') as f:
+with open ('lunch.json', 'r') as f:
     sections = json.load(f)
 def process_sections_extract_prices(sections):
     for section in sections:

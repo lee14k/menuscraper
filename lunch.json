@@ -1,0 +1,576 @@
+[{
+    "header": "Soup of the Day or Chili",
+    "body": [
+        "Fresh and homemade.",
+        "Cup 4.99 | Bowl 5.99"
+    ]
+},
+{
+    "header": "Deep Fried Mac N Cheese",
+    "body": [
+        "Triangles of mac & cheese, lightly",
+        "breaded & deep fried to golden",
+        "brown 6.99"
+    ]
+},
+{
+    "header": "Bread Sticks",
+    "body": [
+        "Filled with melted mozzarella and",
+        "served with marinara sauce. 6.99"
+    ]
+},
+{
+    "header": "Mozzarella Sticks",
+    "body": [
+        "Fried to a golden brown and",
+        "served with marinara sauce. 8.79"
+    ]
+},
+{
+    "header": "French Fried Portobellos",
+    "body": [
+        "Premium mushrooms deep fried",
+        "golden with ranch dipping sauce.",
+        "8.99"
+    ]
+},
+{
+    "header": "Jalape\u00f1o Poppers",
+    "body": [
+        "Cream cheese and jalape\u00f1o deep",
+        "fried and crunchy with just the",
+        "right bite. 8.99"
+    ]
+},
+{
+    "header": "Basket of Onion Rings",
+    "body": [
+        "Sweet onion slices dipped in",
+        "a light golden batter. 7.99"
+    ]
+},
+{
+    "header": "Taco Salad",
+    "body": [
+        "Fresh lettuce topped with seasoned",
+        "ground beef, cheese, taco chips,",
+        "tomatoes, onions and black olives.",
+        "Served in a crisp tortilla shell with",
+        "salsa and sour cream. 13.99"
+    ]
+},
+{
+    "header": "Chef Salad",
+    "body": [
+        "Fresh lettuce, ham, turkey,",
+        "Swiss and American cheese,",
+        "eggs, tomatoes, onions, and",
+        "croutons. 12.99",
+        "Small 9.99"
+    ]
+},
+{
+    "header": "Grilled Chicken Salad",
+    "body": [
+        "A sliced grilled chicken breast atop a",
+        "bed of fresh lettuce, garnished with",
+        "raw onion rings, tomatoes, black",
+        "olives, and croutons. 11.99"
+    ]
+},
+{
+    "header": "Turkey Supreme",
+    "body": [
+        "A bed of fresh lettuce, diced turkey",
+        "breast, tomato wedges, croutons, and",
+        "cheddar cheese with both ranch and",
+        "red French dressings. 11.99"
+    ]
+},
+{
+    "header": "Wings",
+    "body": [
+        "Tender deep fried chicken wings",
+        "either tossed with your choice of",
+        "smokin\u2019 hot sauce or garlic Parmesan",
+        "or served with BBQ sauce, sweet and",
+        "sour, or ranch dressing.",
+        "Ten wings 14.99 | Five Wings 8.99"
+    ]
+},
+{
+    "header": "Wisconsin Cheese Curds",
+    "body": [
+        "Two eggs, two sausage links, or",
+        "two strips of bacon, hash",
+        "browns, and toast. $10.49"
+    ]
+},
+{
+    "header": "Can\u2019t Decide? Basket",
+    "body": [
+        "Onion rings, 2 Mozzarella sticks,",
+        "portabella mushrooms, cheese",
+        "curds, and french fries. 11.99"
+    ]
+},
+{
+    "header": "Reuben",
+    "body": [
+        "Our most popular sandwich! Tender sliced slow",
+        "roasted corned beef, melted Swiss cheese,",
+        "fresh sauerkraut Thousand Island on grilled",
+        "dark rye bread. 11.99"
+    ]
+},
+{
+    "header": "Grilled Chicken Sandwich",
+    "body": [
+        "Griled chicken breast served with",
+        "lettuce, tomato, and mayo on a bun.",
+        "10.89"
+    ]
+},
+{
+    "header": "Classic BLT",
+    "body": [
+        "Bacon, lettuce, tomato, and mayo on",
+        "homemade toasted white, wheat, or rye.",
+        "9.59"
+    ]
+},
+{
+    "header": "Fresh Whitefish Sandwich",
+    "body": [
+        "A fresh whitefish fillet, lightly breaded,",
+        "deep-fried and served on a bun with lettuce",
+        "and tartar sauce 12.99"
+    ]
+},
+{
+    "header": "Quesadilla",
+    "body": [
+        "Grilled seasoned chicken or taco meat,",
+        "onions, red and green peppers, cheddar",
+        "and Monterey jack cheese on a grilled",
+        "flour tortilla. Comes with sour cream and",
+        "salsa. 11.99"
+    ]
+},
+{
+    "header": "Fish Sandwich",
+    "body": [
+        "Deep fried breaded cod with lettuce and",
+        "tartar sauce served on a bun. 10.49"
+    ]
+},
+{
+    "header": "Stacked Turkey & Bacon",
+    "body": [
+        "Sliced turkey, crisp bacon, and American cheese",
+        "with lettuce, tomato, and mayo served on a",
+        "grilled sub bun. 11.99"
+    ]
+},
+{
+    "header": "Veggie Sandwich",
+    "body": [
+        "Swiss, lettuce, tomato, onion, green",
+        "peppers, mushrooms, and sauce on",
+        "grilled dark rye bread. 8.99"
+    ]
+},
+{
+    "header": "Hammy Sammy",
+    "body": [
+        "Ham, swiss, lettuce, tomato, and ranch",
+        "dressing on choice of grilled bread. 11.99"
+    ]
+},
+{
+    "header": "Northwoods Hoagie",
+    "body": [
+        "Grilled chopped steak with mushrooms,",
+        "onions, and melted mozzarella cheese served",
+        "on a 6 inch bun. 10.99"
+    ]
+},
+{
+    "header": "Cold Sandwiches",
+    "body": [
+        "Half sandwich and cup of soup. 8.69"
+    ]
+},
+{
+    "header": "Grilled Cheese Sandwich",
+    "body": [
+        "Three slices of American cheese on your",
+        "choice of homemade bread and grilled to",
+        "perfection. 5.99"
+    ]
+},
+{
+    "header": "Chicken Tender Melt",
+    "body": []
+},
+{
+    "header": "Hot Beef, Turkey, or",
+    "body": []
+},
+{
+    "header": "Pork",
+    "body": [
+        "Hot sandwich with mashed potatoes or",
+        "french fries covered in gravy on white or",
+        "wheat. 11.99 Half 9.49"
+    ]
+},
+{
+    "header": "Tuna",
+    "body": []
+},
+{
+    "header": "Salad",
+    "body": [
+        "7.99"
+    ]
+},
+{
+    "header": "Roast beef, turkey,",
+    "body": []
+},
+{
+    "header": "or pork",
+    "body": [
+        "8.79"
+    ]
+},
+{
+    "header": "Egg",
+    "body": []
+},
+{
+    "header": "Salad",
+    "body": [
+        "4.99"
+    ]
+},
+{
+    "header": "Hot Hamburger",
+    "body": [
+        "1/3lb hamburger on a bun with mashed",
+        "potatoes or french fries, covered with",
+        "gravy. 11.99",
+        "Chicken tenders on your choice of grilled",
+        "homemade bread, bacon, Swiss, and American",
+        "with Ranch dressing. 11.99"
+    ]
+},
+{
+    "header": "Firehouse",
+    "body": [
+        "1/3 lb patty with pepper-jack cheese,",
+        "jalape\u00f1o, BBQ sauce, and topped with",
+        "onion tanglers tossed in sriacha. 12.99"
+    ]
+},
+{
+    "header": "M & M",
+    "body": [
+        "1/3 lb patty, grilled mushrooms,",
+        "and two slices of mozzarella",
+        "cheese. 10.89"
+    ]
+},
+{
+    "header": "Patty Melt",
+    "body": [
+        "10 oz patty with Swiss and",
+        "American cheese with saut\u00e9ed",
+        "onions on grilled rye. 11.99"
+    ]
+},
+{
+    "header": "Grilled Cheeseburger",
+    "body": [
+        "Best of both worlds! 1/3 lb burger",
+        "and cheese served on grilled white,",
+        "wheat, or rye. 9.99"
+    ]
+},
+{
+    "header": "Cowboy Burger",
+    "body": [
+        "1/3 lb patty, onion rings, bacon, BBQ sauce,",
+        "shredded cheddar, and Monterey jack cheese.",
+        "11.99",
+        "Bunyan Burger",
+        "1/3 lb patty and a Brat patty with grilled",
+        "onions, American and Swiss cheese, and",
+        "Jack sauce. 11.99"
+    ]
+},
+{
+    "header": "Hamburger",
+    "body": [
+        "1/3 lb patty with lettuce, tomato, onion, and pickle.",
+        "7.59. Make it a cheeseburger - add 0.60"
+    ]
+},
+{
+    "header": "Chicken Tender Basket",
+    "body": [
+        "Served with choice of potato and today\u2019s salad",
+        "or tossed salad, with BBQ, ranch, sweet and",
+        "sour or honey mustard for dipping. (4) 11.99,",
+        "Half Order 9.99"
+    ]
+},
+{
+    "header": "Chicken Tender Wrap",
+    "body": [
+        "Golden fried chicken tenders, lettuce,",
+        "tomato, cheese, and your choice of sauce",
+        "wrapped in a flour tortilla. 10.89"
+    ]
+},
+{
+    "header": "Philly Wrap",
+    "body": [
+        "Philly steak with saut\u00e9ed onions, red and",
+        "green peppers, with melted mozzarella cheese",
+        "stuffed inside a warm tortilla. 12.99"
+    ]
+},
+{
+    "header": "Shrimp Basket",
+    "body": [
+        "Served with choice of potato and today\u2019s salad",
+        "or tossed salad with shrimp sauce. 12.99"
+    ]
+},
+{
+    "header": "Tuscan Chicken Wrap",
+    "body": [
+        "Sliced grilled chicken with lettuce, tomato, onions,",
+        "and cheese wrapped in a grilled tortilla with",
+        "southwest dressing 11.99"
+    ]
+},
+{
+    "header": "Double Double",
+    "body": [
+        "Two 1/3 lb patties and two slices of",
+        "American cheese. 12.59"
+    ]
+},
+{
+    "header": "Bacon Cheeseburger",
+    "body": [
+        "Supreme 1/3 lb patty, two slices of American",
+        "cheese, bacon, lettuce, tomato, onion, and",
+        "mayo on the side. 11.99"
+    ]
+},
+{
+    "header": "Lumberjack",
+    "body": [
+        "1/3 lb patty with lettuce, tomato,",
+        "and Jack Sauce. 10.99"
+    ]
+},
+{
+    "header": "Roast Beef, Roast Pork,",
+    "body": []
+},
+{
+    "header": "or Roast Turkey",
+    "body": [
+        "Slow roasted for tenderness. 13.99"
+    ]
+},
+{
+    "header": "Fresh Whitefish",
+    "body": [
+        "1/3 lb patty, grilled mushrooms, and",
+        "two slices of mozzarella cheese. 10.89"
+    ]
+},
+{
+    "header": "Country Fried Steak",
+    "body": [
+        "Sirloin steak lightly breaded golden",
+        "brown topped with homemade",
+        "sausage gravy 14.99"
+    ]
+},
+{
+    "header": "Beef and Mushroom Steak",
+    "body": [
+        "10 oz sirloin patty topped with grilled",
+        "mushrooms 13.99"
+    ]
+},
+{
+    "header": "Grilled Citrus Salmon",
+    "body": [
+        "1/3 lb patty, onion rings, bacon,",
+        "BBQ sauce, shredded cheddar, and",
+        "Monterey jack cheese. 11.99"
+    ]
+},
+{
+    "header": "Jumbo Shrimp",
+    "body": [
+        "1/3 lb patty and a Brat patty with",
+        "grilled onions, American and Swiss",
+        "cheese, and Jack sauce. 11.99"
+    ]
+},
+{
+    "header": "Beer Battered Cod",
+    "body": [
+        "1/3 lb patty with lettuce, tomato,",
+        "onion, and pickle. 7.59. Make it a",
+        "cheeseburger - add 0.60"
+    ]
+},
+{
+    "header": "Fried Chicken",
+    "body": [
+        "Four pieces fresh cut chicken, hand-",
+        "breaded in our house made seasoning mix,",
+        "fried golden brown 14.99"
+    ]
+},
+{
+    "header": "Smothered Chicken Breast",
+    "body": [
+        "6 oz grilled chicken breast topped with grilled",
+        "onions, mushrooms, and melted mozzarella 13.99"
+    ]
+},
+{
+    "header": "Chicken BBQ Bacon Skillet",
+    "body": [
+        "A grilled boneless chicken breast topped with",
+        "crisp bacon strips, a cheddar-jack blend,",
+        "lightly drizzled with BBQ sauce. 13.99"
+    ]
+},
+{
+    "header": "Polish Sausage & Kraut",
+    "body": [
+        "Served with choice of potato and today\u2019s salad",
+        "or tossed salad with shrimp sauce. 12.99"
+    ]
+},
+{
+    "header": "Grilled Pork Chops",
+    "body": [
+        "Two 6 oz tender chops 16.99",
+        "One chop 14.49"
+    ]
+},
+{
+    "header": "Top Sirloin Steak",
+    "body": [
+        "8 oz hand cut strip steak prepared to",
+        "your liking. 17.99"
+    ]
+},
+{
+    "header": "Steak and Shrimp",
+    "body": [
+        "A 6 oz hand cut strip steak grilled to your liking,",
+        "accompanied by six jumbo shrimp. 18.99"
+    ]
+},
+{
+    "header": "Liver & Onions",
+    "body": [
+        "Tender liver smothered with grilled onions 12.99",
+        "With Bacon 15.99"
+    ]
+},
+{
+    "header": "Delicious Pie",
+    "body": [
+        "Enjoy a piece of our",
+        "homemade pie, baked",
+        "daily. 4.99",
+        "A la mode 5.89"
+    ]
+},
+{
+    "header": "Pies to Go",
+    "body": [
+        "(Pre-order one day ahead)"
+    ]
+},
+{
+    "header": "Famous Rolls",
+    "body": []
+},
+{
+    "header": "Logger\u2019s Special",
+    "body": [
+        "Two slices of French toast with",
+        "whipped butter and three",
+        "sausage links. 8.79"
+    ]
+},
+{
+    "header": "Northern Eggs Benedict",
+    "body": [
+        "Buttermilk biscuit split and topped",
+        "with two eggs, Canadian bacon, and",
+        "homemade sausage gravy. 10.99"
+    ]
+},
+{
+    "header": "Hunter\u2019s Special",
+    "body": [
+        "Two eggs, two sausage",
+        "patties, hash browns, and",
+        "toast. 10.99"
+    ]
+},
+{
+    "header": "Northwoods Special",
+    "body": [
+        "Two eggs, two sausage links, two strips",
+        "of bacon, and a slice of ham. With hash",
+        "browns and toast. $13.99"
+    ]
+},
+{
+    "header": "Biscuits and Gravy",
+    "body": [
+        "Two homemade buttermilk",
+        "biscuits, split, grilled, and topped",
+        "with homemade sausage gravy.",
+        "9.89. | Half Order 8.79"
+    ]
+},
+{
+    "header": "Sausage Skillet",
+    "body": [
+        "Golden hash browns topped with",
+        "two sausage patties and two eggs",
+        "covered with homemade sausage",
+        "gravy. Served with toast. 11.99"
+    ]
+},
+{
+    "header": "Camp Special",
+    "body": [
+        "Two eggs, two sausage links,",
+        "or two strips of bacon, hash",
+        "browns, and toast. 10.49",
+        "Cinnamon Roll 4.99",
+        "Pecan Roll (Sundays only) 5.99"
+    ]
+}
+]
